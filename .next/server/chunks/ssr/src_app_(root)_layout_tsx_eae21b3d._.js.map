@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/parrysmacbook/Documents/React_PRO/nike_eshop_2025/src/app/%28root%29/layout.tsx"],"sourcesContent":["import { Navbar, Footer } from \"@/components\";\n\nexport default function RootLayout({ children }: { children: React.ReactNode }) {\n  return (\n    <>\n      <Navbar />\n      {children}\n      <Footer />\n    </>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;AAAA;AAAA;;;AAEe,SAAS,WAAW,EAAE,QAAQ,EAAiC;IAC5E,qBACE;;0BACE,8OAAC,2KAAM;;;;;YACN;0BACD,8OAAC,2KAAM;;;;;;;AAGb","debugId":null}}]
+}
