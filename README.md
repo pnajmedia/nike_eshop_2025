@@ -77,7 +77,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/pnajmedia/nike_eshop_2025.git
-cd e-commerce
+cd nike_eshop_2025
 ```
 
 **Installation**
